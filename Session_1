@@ -1,0 +1,20 @@
+This is session 1 for the learning program to help teach Richard about computers and to help solidfy my own learning!
+
+
+Step 1: Pick an OS!
+  - what flavor? Debian, redhat, centOS, Arch btw
+  - suggested: Pop!-OS
+  - 
+  
+  
+Step 2: build the environment
+  - set up dual boot with windows 
+  - boot, swap, and ext partitions
+  
+ 
+Step 3: Intro to CLI
+  - BASH
+  - basic commands (update, upgrade)
+  - other system settings
+  - explain APT
+  - aptitude
